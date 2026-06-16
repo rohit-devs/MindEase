@@ -280,8 +280,6 @@ Add your project demonstration video here:
 ---
 
 ## 📸 Screenshots
-<img width="947" height="293" alt="image" src="https://github.com/user-attachments/assets/cad2ac0d-a444-440d-9770-5e3ebe6b9a14" />
-
 
 ### Home Dashboard
 
