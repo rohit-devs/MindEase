@@ -289,11 +289,9 @@ Add your project demonstration video here:
 
 ### Sentiment Wave
 
-![Sentiment Wave](assets/screenshots/sentiment-wave.png)
+<img width="1918" height="1075" alt="image" src="https://github.com/user-attachments/assets/8247ed7d-74fb-4bd2-a1e6-7e65718902d0" />
 
-### Crisis Detection
 
-![Crisis Detection](assets/screenshots/crisis-alert.png)
 
 ---
 
