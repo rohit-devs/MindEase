@@ -283,7 +283,8 @@ Add your project demonstration video here:
 
 ### Home Dashboard
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f286248-39a5-496d-b319-9ec61228e3ed" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9aee34e6-776c-4db8-8a48-785ccbfc920a" />
+
 
 
 ### Sentiment Wave
