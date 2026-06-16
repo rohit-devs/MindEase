@@ -283,7 +283,8 @@ Add your project demonstration video here:
 
 ### Home Dashboard
 
-![Dashboard](assets/screenshots/dashboard.png)
+![Uploading image.png…]()
+
 
 ### Sentiment Wave
 
